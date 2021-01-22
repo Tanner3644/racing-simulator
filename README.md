@@ -10,13 +10,14 @@ A DIY racing simulator made from ABS pipe and equiped with a vintage car seat an
 
 ## SolidWorks
 
-![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Front-Assembly.jpg)
+### Front Assembly
 
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Front-Assembly.jpg)
 * Supports the steering wheel and pedal mounts
 * Wheels will be mounted under the pedals to make it easy to move
 
+### Reat Assembly
 ![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Rear-Assembly.jpg)
-
 * Supports the seat as well as the e-brake
 
 # Product
