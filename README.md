@@ -30,19 +30,31 @@ A DIY racing simulator made from ABS pipe and equipped with a vintage car seat a
 
 ![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Steering-Wheel.jpg)
 
+* Mounted to the front assembly using fastners and plywood
+
 ## Pedals
 
 ![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Pedals.jpg)
+
+* Mounted to the front assembly using fastners and plywood
 
 ## Shifter
 
 ![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Shifter.jpg)
 
+* Mounted to the side ABS pipe using a metal bracket and fastners
+
 ## E-Brake
 
 ![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/E-Brake.jpg)
 
-* Changing the theme between light and dark based on the sun's position
+* Mounted to the plywood base on the rear assembly
+
+## Caster Wheels
+
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Caster-Wheels.jpg)
+
+* Mounted underneath the pedals so the unit can be easily moved by one person
 
 ## Components
 
