@@ -4,9 +4,9 @@ A DIY racing simulator made from ABS pipe and equiped with a vintage car seat an
 
 ## Goals
 
-* Incorporate different brands of smart home devices into one smart home dashboard
-* Make a functional, easy to use, reliable and aesethicaly pleasing dashboard
-* Use automations to intregate the components together to make tasks easier
+* Design a functional, easy to move racing simulator
+* Fabricate brackets for mounting steering wheel, pedals, gear shifter and e-brake
+* Make it robust enough for the force feedback of the wheel and user inputs
 
 ## SolidWorks
 
