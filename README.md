@@ -10,6 +10,9 @@ A DIY racing simulator made from ABS pipe and equiped with a vintage car seat an
 
 ## SolidWorks
 
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Front-Assembly.jpg)
+
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Rear-Assembly.jpg)
 
 ## Automations
 
