@@ -21,6 +21,11 @@ A DIY racing simulator made from ABS pipe and equipped with a vintage car seat a
 
 # Product
 
+## Overview
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Overview.jpg)
+
+![screenshot](https://github.com/Tanner3644/racing-simulator/blob/main/images/Overview-2.jpg)
+
 * Changing the theme between light and dark based on the sun's position
 * Setting the brightness of the wall mounted tablet based on the sun's position
 * Motion sensor to turn the tablet on when there is movement in front of it
