@@ -1,6 +1,6 @@
 # Racing Simulator
 
-A DIY racing simulator made from ABS pipe and equiped with a vintage car seat and [Thrustmaster](http://www.thrustmaster.com/products/categories/racing-wheels-0) components.
+A DIY racing simulator made from ABS pipe and equipped with a vintage car seat and [Thrustmaster](http://www.thrustmaster.com/products/categories/racing-wheels-0) components.
 
 ## Goals
 
